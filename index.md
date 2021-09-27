@@ -7,6 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - test
 - test
 
+!!! note
+    You should note that the title will be automatically capitalized.
+    
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
